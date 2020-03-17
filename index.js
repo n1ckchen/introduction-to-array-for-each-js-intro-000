@@ -7,6 +7,6 @@ function doToElementsInArray(array, callback) {
 function changeCompletely() {
   const map1 = changeCompletely.map(x => x * 3);
   console.log(map1)
-  
-  
+
+
 }
