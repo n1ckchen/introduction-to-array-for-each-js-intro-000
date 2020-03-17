@@ -4,7 +4,9 @@ function doToElementsInArray(array, callback) {
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely(array, element) {
-  array.forEach(element)
+function changeCompletely() {
+  const map1 = changeCompletely.map(x => x * 3);
+  console.log(map1)
+  
   
 }
